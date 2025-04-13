@@ -1,3 +1,6 @@
+Welcome to my repository! I'm a Computer Engineer Undergraduate with a keen interest in Information Security, Systems Programming, Web Development and Game Development
+ 
+
 # I am the Bugslayer
 (i'm the one who creates them all)
 ![Doom guy, posing](/assets/images/doom-guy-posing.png)
