@@ -2,7 +2,7 @@ Welcome to my repository! I'm a Computer Engineer Undergraduate with a keen inte
 <html>
 <div align="center">
   I am the Bugslayer
- <img href="/assets/images/doom-guy-posing.png">
+ <img src="/assets/images/doom-guy-posing.png">
 </div>
 </html>
 ![Doom guy, posing](/assets/images/doom-guy-posing.png)
