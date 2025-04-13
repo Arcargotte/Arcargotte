@@ -1,8 +1,9 @@
 Welcome to my repository! I'm a Computer Engineer Undergraduate with a keen interest in Information Security, Systems Programming, Web Development and Game Development
- 
-<div align="center">
+<html>
+ <div align="center">
   I am the Bugslayer
 </div>
+</html>
 ![Doom guy, posing](/assets/images/doom-guy-posing.png)
 <!--
 **Arcargotte/Arcargotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
